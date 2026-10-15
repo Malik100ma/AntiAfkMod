@@ -1,0 +1,19 @@
+{
+  "modmenu.nameTranslation.antiafk": "Anti-AFK",
+  "modmenu.descriptionTranslation.antiafk": "Appuie sur une touche à intervalle régulier pour éviter d'être expulsé pour inactivité.",
+  "key.antiafk.toggle": "Activer/désactiver Anti-AFK",
+  "key.category.antiafk.main": "AntiAfk",
+  "antiafk.config.title": "Paramètres d'AntiAfk",
+  "antiafk.config.enabled": "Anti-AFK : %s",
+  "antiafk.config.on": "OUI",
+  "antiafk.config.off": "NON",
+  "antiafk.config.interval": "Intervalle (ex. 2h, 3m, 20s)",
+  "antiafk.config.key": "Touche à presser : %s",
+  "antiafk.config.press_key": "Appuyez sur une touche",
+  "antiafk.config.done": "Enregistrer",
+  "antiafk.config.cancel": "Annuler",
+  "antiafk.config.invalid": "Format invalide. Ex. : 2h, 3m, 20s, 1h30m (min. 1s)",
+  "antiafk.config.every": "Appui toutes les %s",
+  "antiafk.message.on": "Anti-AFK activé",
+  "antiafk.message.off": "Anti-AFK désactivé"
+}

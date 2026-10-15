@@ -1,0 +1,19 @@
+{
+  "modmenu.nameTranslation.antiafk": "Anti-AFK",
+  "modmenu.descriptionTranslation.antiafk": "Pulsa una tecla en un intervalo definido para que no te expulsen por estar AFK.",
+  "key.antiafk.toggle": "Activar/desactivar Anti-AFK",
+  "key.category.antiafk.main": "AntiAfk",
+  "antiafk.config.title": "Ajustes de AntiAfk",
+  "antiafk.config.enabled": "Anti-AFK: %s",
+  "antiafk.config.on": "SÍ",
+  "antiafk.config.off": "NO",
+  "antiafk.config.interval": "Intervalo (p. ej. 2h, 3m, 20s)",
+  "antiafk.config.key": "Tecla a pulsar: %s",
+  "antiafk.config.press_key": "Pulsa una tecla",
+  "antiafk.config.done": "Guardar",
+  "antiafk.config.cancel": "Cancelar",
+  "antiafk.config.invalid": "Formato no válido. Ej.: 2h, 3m, 20s, 1h30m (mín. 1s)",
+  "antiafk.config.every": "Pulsando cada %s",
+  "antiafk.message.on": "Anti-AFK activado",
+  "antiafk.message.off": "Anti-AFK desactivado"
+}

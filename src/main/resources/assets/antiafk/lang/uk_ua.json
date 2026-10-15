@@ -1,0 +1,19 @@
+{
+  "modmenu.nameTranslation.antiafk": "Анти-АФК",
+  "modmenu.descriptionTranslation.antiafk": "Натискає клавішу через заданий інтервал, щоб вас не кікнуло за AFK.",
+  "key.antiafk.toggle": "Увімкнути/вимкнути Anti-AFK",
+  "key.category.antiafk.main": "AntiAfk",
+  "antiafk.config.title": "Налаштування AntiAfk",
+  "antiafk.config.enabled": "Anti-AFK: %s",
+  "antiafk.config.on": "УВІМК",
+  "antiafk.config.off": "ВИМК",
+  "antiafk.config.interval": "Інтервал (напр. 2h, 3m, 20s)",
+  "antiafk.config.key": "Клавіша для натискання: %s",
+  "antiafk.config.press_key": "Натисніть клавішу",
+  "antiafk.config.done": "Зберегти",
+  "antiafk.config.cancel": "Скасувати",
+  "antiafk.config.invalid": "Неправильний формат. Напр.: 2h, 3m, 20s, 1h30m (мін. 1s)",
+  "antiafk.config.every": "Натискання кожні %s",
+  "antiafk.message.on": "Anti-AFK увімкнено",
+  "antiafk.message.off": "Anti-AFK вимкнено"
+}

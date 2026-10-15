@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "antiafk",
+  "version": "${version}",
+  "name": "AntiAfk",
+  "description": "Presses a key of your choice at a configurable interval so you don't get kicked for being AFK.",
+  "authors": ["Malik100ma"],
+  "license": "MIT",
+  "icon": "assets/antiafk/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.antiafk.client.AntiAfkClient"],
+    "modmenu": ["com.antiafk.client.ModMenuIntegration"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*"
+  }
+}

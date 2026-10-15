@@ -1,0 +1,19 @@
+{
+  "modmenu.nameTranslation.antiafk": "Anti-AFK",
+  "modmenu.descriptionTranslation.antiafk": "Drückt in einem festen Intervall eine Taste, damit du nicht wegen AFK gekickt wirst.",
+  "key.antiafk.toggle": "Anti-AFK umschalten",
+  "key.category.antiafk.main": "AntiAfk",
+  "antiafk.config.title": "AntiAfk-Einstellungen",
+  "antiafk.config.enabled": "Anti-AFK: %s",
+  "antiafk.config.on": "AN",
+  "antiafk.config.off": "AUS",
+  "antiafk.config.interval": "Intervall (z. B. 2h, 3m, 20s)",
+  "antiafk.config.key": "Zu drückende Taste: %s",
+  "antiafk.config.press_key": "Taste drücken",
+  "antiafk.config.done": "Speichern",
+  "antiafk.config.cancel": "Abbrechen",
+  "antiafk.config.invalid": "Ungültiges Format. Z. B. 2h, 3m, 20s, 1h30m (min. 1s)",
+  "antiafk.config.every": "Tastendruck alle %s",
+  "antiafk.message.on": "Anti-AFK aktiviert",
+  "antiafk.message.off": "Anti-AFK deaktiviert"
+}

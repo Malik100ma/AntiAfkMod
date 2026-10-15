@@ -1,0 +1,19 @@
+{
+  "modmenu.nameTranslation.antiafk": "Anti-AFK",
+  "modmenu.descriptionTranslation.antiafk": "Presses a key at a set interval so you don't get kicked for being AFK.",
+  "key.antiafk.toggle": "Toggle Anti-AFK",
+  "key.category.antiafk.main": "AntiAfk",
+  "antiafk.config.title": "AntiAfk Settings",
+  "antiafk.config.enabled": "Anti-AFK: %s",
+  "antiafk.config.on": "ON",
+  "antiafk.config.off": "OFF",
+  "antiafk.config.interval": "Interval (e.g. 2h, 3m, 20s)",
+  "antiafk.config.key": "Key to press: %s",
+  "antiafk.config.press_key": "Press a key",
+  "antiafk.config.done": "Save",
+  "antiafk.config.cancel": "Cancel",
+  "antiafk.config.invalid": "Invalid format. Use e.g. 2h, 3m, 20s, 1h30m (min 1s)",
+  "antiafk.config.every": "Pressing every %s",
+  "antiafk.message.on": "Anti-AFK enabled",
+  "antiafk.message.off": "Anti-AFK disabled"
+}
